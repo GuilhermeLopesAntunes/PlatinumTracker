@@ -13,7 +13,7 @@ PlatinumTracker é um sistema de rastreamento de conquistas para jogos, permitin
 
 - **Backend:** PHP (Laravel)
 - **Frontend:** Blade (Laravel)
-- **Banco de Dados:** SQLite ou MySQL
+- **Banco de Dados:** SQLite
 - **Autenticação:** Sistema de login simples para autenticação de usuários.
 - **Controle de Versão:** Git, hospedado no GitHub.
 
